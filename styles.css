@@ -80,6 +80,7 @@ body{
     background-color: yellow;
     top: 210px;
     left: 315px;
+    border-radius: 50%;
 }
 .right-eye{
     position: absolute;
@@ -88,6 +89,7 @@ body{
     background-color: yellow;
     top: 210px;
     left: 345px;
+    border-radius: 50%;
 }
 .mouth{
     position: absolute;
@@ -96,4 +98,5 @@ body{
     background-color: rgb(2, 28, 2);
     top: 250px;
     left: 335px;
+    border-radius: 60%;
 }
